@@ -1,0 +1,12 @@
+body{
+    background-image: url('Images/bg.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+#img{
+    width: 200px;
+}
+#footer{
+    color:aliceblue;
+}
